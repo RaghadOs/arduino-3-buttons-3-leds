@@ -18,7 +18,7 @@ This project is an **electronic circuit** built using **Arduino UNO**, created i
 |----------|----------------|
 | 1        | Arduino UNO    |
 | 3        | Push Buttons   |
-| 3        | LEDs (Red, Yellow, Green) |
+| 3        | LEDs (Red, Green, Blue) |
 | 3        | 220Ω Resistors |
 | 1        | Breadboard     |
 | –        | Jumper Wires   |
@@ -34,8 +34,8 @@ This project is an **electronic circuit** built using **Arduino UNO**, created i
 | Button | Arduino Pin | LED | LED Pin |
 |--------|--------------|-----|---------|
 | Button 1 | 7 | LED 1 (Red)   | 10 |
-| Button 2 | 8 | LED 2 (Yellow)| 11 |
-| Button 3 | 9 | LED 3 (Green) | 12 |
+| Button 2 | 8 | LED 2 (Green)| 11 |
+| Button 3 | 9 | LED 3 (Blue) | 12 |
 
 ---
 
