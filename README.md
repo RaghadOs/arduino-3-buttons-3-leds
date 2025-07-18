@@ -83,3 +83,32 @@ void loop() {
     digitalWrite(led3, LOW);
   }
 }
+```
+
+---
+
+## 🛠 Tools Used
+
+- [Tinkercad](https://www.tinkercad.com) Circuits – For simulation and design.
+- Arduino UNO – For coding and testing the circuit.
+- Screenshot – Captured from the simulation.
+
+---
+
+## 📸 Screenshots
+
+![Circuit Diagram](circuit.png)
+
+---
+
+## ✨ What I Learned
+
+- How to build a basic input/output circuit using Arduino.
+- The role of pull-down resistors and how buttons are read digitally.
+- How to write and upload code to an Arduino board for real-time interaction.
+
+---
+
+## 📌 Notes
+
+- The circuit was built and tested virtually using Tinkercad Circuits.
